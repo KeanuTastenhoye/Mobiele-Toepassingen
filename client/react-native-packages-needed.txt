@@ -1,0 +1,11 @@
+Volgende pakketten installeren om bottom tab navigator te gebruiken:
+
+react-navigation
+react-native-vector-icons
+react-navigation-tabs
+react-native-reanimated
+
+react-native-keyboard-spacer
+
+ListItem:
+react-native-elements
