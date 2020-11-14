@@ -1,4 +1,4 @@
-# mobile1920-aaaaaaaaaaa
+# Mobiele-Toepassingen
 
 # Core feature:
 
@@ -18,3 +18,10 @@
 - Create and chat in groupchats
 - Application-wide emoji and special character support
 - Overview of Top 3 posts
+
+# Created By:
+
+- Shiva Janssens
+- Steven Zegers
+- Keanu Tastenhoye
+- Lucas Thole
