@@ -1,4 +1,4 @@
-# Mobiele-Toepassingen
+# MobieleToepassingen
 
 # Core feature:
 
